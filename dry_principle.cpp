@@ -57,7 +57,7 @@ public:
   struct Params {
     int height{};
     int width{};
-    std::optional<bool> depth;
+    std::optional<float> depth;
   };
 
   // Dependency injection for HelperInterface
