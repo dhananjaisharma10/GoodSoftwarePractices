@@ -19,3 +19,9 @@
 
 # Folder view configuration files
 .DS_Store
+
+# Compiled Dynamic libraries
+*.so
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
