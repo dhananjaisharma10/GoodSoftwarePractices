@@ -1,18 +1,11 @@
-### Good Software Practices
+# Good Software Practices
 
-This project is about documenting good SW practices using CPP and Python.
+This project is about documenting good SW practices and learnings using CPP and Python.
 
-### Installation
-TODO: Add instructions.
-TODO: Enter the `brew` based instructions to install them.
-TODO: Add Bazel or Cmake based build configuration.
-TODO: Add a gradle-based CI pipeline.
+## Table of Contents
 
-The project uses both `clang-format` and `clang-tidy`.
-
-### Available Principles
-TODO: Make a table
-
-| Principle/Rule | CPP | Python |
+| Description | CPP | Python |
 | -------------- | --- | ------ |
-| Don't repeat yourself | Yes | No |
+| Don't Repeat Yourself principle | Yes | No |
+| Hashmap implementation | Yes | No |
+| Tiny Tensor library using [`pybind11`](https://pybind11.readthedocs.io/en/stable/) | Yes | Yes |
