@@ -31,3 +31,11 @@ Then, you can run the `test.py` module, which calls the CPP code through the bin
 ```bash
 python test.py
 ```
+## TODOs
+
+* [ ] Figure out how to use `__mul__` for both scalars and tensors. Same applies to `__truediv__`, `__add__`, `__sub__`.
+* [ ] Add support for n-dimensional tensors.
+* [ ] Templatize the class to use int and float tensors.
+* [ ] Writing the data at specific indices of the tensor.
+* [ ] Matrix multiplication of the tensor.
+* [ ] Add documentation.
